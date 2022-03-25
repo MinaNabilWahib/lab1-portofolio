@@ -1,0 +1,14 @@
+.hero{
+    background-image: url('./images/portriat.jpg');
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+    width: 100%;
+    height: 100vh;
+}
+.intro{
+    color: #eee;
+}
+.main-paragraph{
+    color: #eee;
+}
